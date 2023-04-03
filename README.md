@@ -31,9 +31,11 @@ ____
 
 ### Картинки из выдачи ChromHMM
 
-<img src="https://github.com/AnyaAkhmatova/hse_hw3_chromhmm/blob/main/ChromHMM_output/modelData/transitions_10.png" width="300" height="350"> <img src="https://github.com/AnyaAkhmatova/hse_hw3_chromhmm/blob/main/ChromHMM_output/modelData/emissions_10.png" width="300" height="350"> <img src="https://github.com/AnyaAkhmatova/hse_hw3_chromhmm/blob/main/ChromHMM_output/modelData/Dnd41_10_overlap.png" width="300" height="350">
-
-<img src="https://github.com/AnyaAkhmatova/hse_hw3_chromhmm/blob/main/ChromHMM_output/modelData/Dnd41_10_RefSeqTSS_neighborhood.png" width="450" height="350"> <img src="https://github.com/AnyaAkhmatova/hse_hw3_chromhmm/blob/main/ChromHMM_output/modelData/Dnd41_10_RefSeqTES_neighborhood.png" width="450" height="350">
+<img src="https://github.com/AnyaAkhmatova/hse_hw3_chromhmm/blob/main/ChromHMM_output/modelData/transitions_10.png" width="300" height="350"> 
+<img src="https://github.com/AnyaAkhmatova/hse_hw3_chromhmm/blob/main/ChromHMM_output/modelData/emissions_10.png" width="300" height="350"> 
+<img src="https://github.com/AnyaAkhmatova/hse_hw3_chromhmm/blob/main/ChromHMM_output/modelData/Dnd41_10_overlap.png" width="300" height="350">
+<img src="https://github.com/AnyaAkhmatova/hse_hw3_chromhmm/blob/main/ChromHMM_output/modelData/Dnd41_10_RefSeqTSS_neighborhood.png" width="450" height="350"> 
+<img src="https://github.com/AnyaAkhmatova/hse_hw3_chromhmm/blob/main/ChromHMM_output/modelData/Dnd41_10_RefSeqTES_neighborhood.png" width="450" height="350">
 
 ____
 
@@ -118,5 +120,6 @@ with open('Dnd41_10_dense.bed', 'w') as f:
     for line in lines:
         f.write(line)
 ```
+[Ссылка на получившийся файл на google disk](https://drive.google.com/file/d/1Ax_2jUGlIajQyvvSM-Hi1Y0nwq-X6bT_/view?usp=share_link)
 
 ![](https://github.com/AnyaAkhmatova/hse_hw3_chromhmm/blob/main/images/new.png)
